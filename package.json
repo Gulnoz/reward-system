@@ -1,0 +1,22 @@
+{
+  "name": "rewardsystem",
+  "version": "1.0.0",
+  "description": "reward system api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gulnoz/reward-system.git"
+  },
+  "author": "Julia Boltaeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gulnoz/reward-system/issues"
+  },
+  "homepage": "https://github.com/Gulnoz/reward-system#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
